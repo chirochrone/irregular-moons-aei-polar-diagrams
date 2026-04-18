@@ -1,0 +1,962 @@
+Jupiter VI (Himalia)
+Epoch 2025 May 5.0 TT = JDT 2460800.5                   Alexanders
+M 358.64879              (2000.0)            P               Q
+n   1.43555919     Peri.   44.23129     +0.19467733     -0.93468802
+a   0.0766346      Node    37.67504     +0.70929230     -0.07529107
+e   0.1759540      Incl.   29.11943     +0.67749920     +0.34740402
+P   0.69           H    7.90          P/d   250.77
+From 3365 observations 1994 June 3-2025 Apr. 15, mean residual 0".42.
+
+Jupiter VII (Elara)
+Epoch 2025 May 5.0 TT = JDT 2460800.5                   Alexanders
+M 163.13181              (2000.0)            P               Q
+n   1.37564891     Peri.  214.71352     +0.40132328     +0.76729113
+a   0.0788437      Node    83.85412     -0.68422411     +0.61419893
+e   0.2028910      Incl.   30.20500     -0.60891460     -0.18445596
+P   0.72           H    9.62          P/d   261.69
+From 2429 observations 1995 Apr. 3-2025 Feb. 28, mean residual 0".41.
+
+Jupiter VIII (Pasiphae)
+Epoch 2025 Nov. 21.0 TT = JDT 2461000.5                 Alexanders
+M 207.72457              (2000.0)            P               Q
+n   0.48821471     Peri.  268.28876     -0.87215017     +0.29708444
+a   0.1572890      Node    71.15577     +0.40744761     +0.88086539
+e   0.5263586      Incl.  155.74968     -0.27081454     +0.36853357
+P   2.02           H   10.09          P/d   737.38
+From 3883 observations 1958 Apr. 13-2025 Apr. 16, mean residual 0".38.
+
+Jupiter IX (Sinope)
+Epoch 2025 Nov. 21.0 TT = JDT 2461000.5                 Alexanders
+M 341.15210              (2000.0)            P               Q
+n   0.50118999     Peri.   79.26120     +0.79947281     -0.54199332
+a   0.1545625      Node    47.04149     -0.58772708     -0.79489015
+e   0.2532896      Incl.  159.27314     +0.12417774     -0.27275060
+P   1.97           H   11.16          P/d   718.29
+From 2303 observations 1953 Dec. 10-2025 Mar. 23, mean residual 0".39.
+
+Jupiter X (Lysithea)
+Epoch 2022 Aug. 9.0 TT = JDT 2459800.5                  Alexanders
+M 252.79068              (2000.0)            P               Q
+n   1.38763147     Peri.   99.74793     +0.14063464     -0.97761602
+a   0.0783892      Node   339.99955     +0.62931037     +0.21028915
+e   0.1188228      Incl.   27.22807     +0.76432346     +0.00673737
+P   0.71           H   11.17          P/d   259.43
+From 819 observations 1988 Oct. 19-2022 Oct. 12, mean residual 0".35.
+
+Jupiter XI (Carme)
+Epoch 2025 Nov. 21.0 TT = JDT 2461000.5                 Alexanders
+M 154.93030              (2000.0)            P               Q
+n   0.47805070     Peri.  169.92030     +0.52082777     +0.82511711
+a   0.1595106      Node   228.91339     +0.76161000     -0.33329711
+e   0.1892164      Incl.  163.11592     +0.38560167     -0.45617408
+P   2.06           H   10.66          P/d   753.06
+From 3016 observations 1938 July 30-2026 Jan. 11, mean residual 0".40.
+
+Jupiter XII (Ananke)
+Epoch 2025 Nov. 21.0 TT = JDT 2461000.5                 Alexanders
+M 289.52384              (2000.0)            P               Q
+n   0.59474493     Peri.  151.71043     +0.63167655     -0.59994823
+a   0.1378960      Node   105.77731     -0.77196032     -0.42866520
+e   0.1209507      Incl.  149.32377     -0.07114771     -0.67550594
+P   1.66           H   11.77          P/d   605.30
+From 1705 observations 1951 Sept. 29-2026 Jan. 11, mean residual 0".40.
+
+Jupiter XIII (Leda)
+Epoch 2022 Aug. 9.0 TT = JDT 2459800.5                  Alexanders
+M 297.20625              (2000.0)            P               Q
+n   1.50877100     Peri.  329.45824     -0.91666337     -0.39350914
+a   0.0741350      Node   188.32898     +0.38714757     -0.91768740
+e   0.1596509      Incl.   28.82856     -0.09922208     +0.05477578
+P   0.65           H   12.71          P/d   238.60
+From 227 observations 1986 Nov. 27-2021 Oct. 2, mean residual 0".49.
+
+Jupiter XVII (Callirrhoe)
+Epoch 2025 Nov. 21.0 TT = JDT 2461000.5                 Alexanders
+M 301.07370              (2000.0)            P               Q
+n   0.50010568     Peri.  101.87876     +0.26551004     -0.92020420
+a   0.1547858      Node    32.23738     -0.95020352     -0.30024921
+e   0.3219293      Incl.  147.37062     +0.16314932     -0.25114667
+P   1.97           H   14.00          P/d   719.85
+From 204 observations 1999 Oct. 6-2022 Oct. 20, mean residual 0".42.
+
+Jupiter XVIII (Themisto)
+Epoch 2022 Aug. 9.0 TT = JDT 2459800.5                  Alexanders
+M 113.99399              (2000.0)            P               Q
+n   2.76354048     Peri.  243.43178     +0.33890016     -0.93366305
+a   0.0495216      Node   189.37334     +0.88898977     +0.27748677
+e   0.2509991      Incl.   45.33950     -0.30796731     -0.22643852
+P   0.36           H   13.33          P/d   130.27
+From 129 observations 2000 Aug. 6-2021 Oct. 2, mean residual 0".58.
+
+Jupiter XIX (Megaclite)
+Epoch 2025 Nov. 21.0 TT = JDT 2461000.5                 Alexanders
+M 336.63015              (2000.0)            P               Q
+n   0.48598569     Peri.   31.50841     +0.95720322     -0.20321748
+a   0.1577696      Node    22.73788     -0.18263638     -0.97647783
+e   0.4417404      Incl.  147.78171     +0.22451269     +0.07206740
+P   2.03           H   15.05          P/d   740.76
+From 72 observations 2000 Nov. 25-2017 Feb. 27, mean residual 0".47.
+
+Jupiter XX (Taygete)
+Epoch 2025 Nov. 21.0 TT = JDT 2461000.5                 Alexanders
+M  47.59754              (2000.0)            P               Q
+n   0.52014242     Peri.  347.75060     +0.54255827     +0.81924141
+a   0.1507848      Node    45.24939     +0.79108411     -0.57265326
+e   0.1849357      Incl.  164.84423     +0.28251807     +0.03019522
+P   1.89           H   15.51          P/d   692.12
+From 69 observations 2000 Nov. 25-2022 Sept. 2, mean residual 0".32.
+
+Jupiter XXI (Chaldene)
+Epoch 2025 Nov. 21.0 TT = JDT 2461000.5                 Alexanders
+M 262.59519              (2000.0)            P               Q
+n   0.52452972     Peri.   13.97286     -0.71797668     -0.64937062
+a   0.1499428      Node   237.32090     -0.66381482     +0.53043102
+e   0.2888800      Incl.  162.67497     -0.20942629     +0.54494104
+P   1.88           H   16.03          P/d   686.33
+From 64 observations 2000 Nov. 26-2018 May 12, mean residual 0".49.
+
+Jupiter XXII (Harpalyke)
+Epoch 2025 Nov. 21.0 TT = JDT 2461000.5                 Alexanders
+M 262.29234              (2000.0)            P               Q
+n   0.60265592     Peri.  231.36234     -0.40578900     -0.78047119
+a   0.1366866      Node   110.87082     -0.59689808     +0.62037769
+e   0.1729307      Incl.  149.40259     -0.69213292     -0.07743546
+P   1.64           H   15.89          P/d   597.36
+From 80 observations 2000 Nov. 23-2024 Dec. 2, mean residual 0".17.
+
+Jupiter XXIII (Kalyke)
+Epoch 2025 Nov. 21.0 TT = JDT 2461000.5                 Alexanders
+M 166.68819              (2000.0)            P               Q
+n   0.52615541     Peri.  336.60478     -0.98891546     -0.12477581
+a   0.1496338      Node   163.16830     -0.04723321     +0.77824200
+e   0.3610471      Incl.  163.86262     -0.14076662     +0.61544324
+P   1.87           H   15.34          P/d   684.21
+From 100 observations 2000 Nov. 23-2024 Dec. 3, mean residual 0".41.
+
+Jupiter XXIV (Iocaste)
+Epoch 2025 Nov. 21.0 TT = JDT 2461000.5                 Alexanders
+M 225.74649              (2000.0)            P               Q
+n   0.59760345     Peri.  132.29200     -0.65788230     -0.75300442
+a   0.1374560      Node     1.37677     -0.74317551     +0.64624745
+e   0.2707517      Incl.  146.56887     +0.12198786     -0.12388937
+P   1.65           H   15.44          P/d   602.41
+From 79 observations 2000 Nov. 23-2024 Dec. 3, mean residual 0".16.
+
+Jupiter XXV (Erinome)
+Epoch 2023 Feb. 25.0 TT = JDT 2460000.5                 Alexanders
+M 101.01311              (2000.0)            P               Q
+n   0.49117329     Peri.  123.28823     +0.34307988     -0.91970188
+a   0.1566568      Node    54.51446     -0.92078691     -0.28913750
+e   0.3612487      Incl.  166.44072     -0.18560082     -0.26560866
+P   2.01           H   16.04          P/d   732.94
+From 80 observations 2000 Nov. 23-2022 Sept. 2, mean residual 0".16.
+
+Jupiter XXVI (Isonoe)
+Epoch 2025 Nov. 21.0 TT = JDT 2461000.5                 Alexanders
+M 118.13213              (2000.0)            P               Q
+n   0.51994578     Peri.  226.40338     +0.97188883     +0.07269345
+a   0.1508228      Node   231.86281     +0.18629148     -0.81905359
+e   0.3412851      Incl.  163.45828     -0.14397075     -0.56909303
+P   1.90           H   15.92          P/d   692.38
+From 82 observations 2000 Nov. 23-2024 Dec. 3, mean residual 0".19.
+
+Jupiter XXVII (Praxidike)
+Epoch 2025 Nov. 21.0 TT = JDT 2461000.5                 Alexanders
+M 172.59662              (2000.0)            P               Q
+n   0.55777006     Peri.  258.31770     -0.20974269     +0.97774670
+a   0.1439248      Node     0.49432     +0.96982610     +0.20861177
+e   0.2221726      Incl.  149.31147     -0.12427931     -0.02219259
+P   1.77           H   14.83          P/d   645.43
+From 115 observations 2000 Nov. 23-2022 Oct. 2, mean residual 0".35.
+
+Jupiter XXVIII (Autonoe)
+Epoch 2025 Nov. 21.0 TT = JDT 2461000.5                 Alexanders
+M 307.44200              (2000.0)            P               Q
+n   0.47175168     Peri.  155.57003     -0.67806248     -0.69860448
+a   0.1609274      Node    25.00334     -0.73132590     +0.67231207
+e   0.2974742      Incl.  147.28515     -0.07344184     -0.24484335
+P   2.09           H   15.59          P/d   763.11
+From 47 observations 2001 Dec. 10-2018 Apr. 13, mean residual 0".38.
+
+Jupiter XXIX (Thyone)
+Epoch 2025 Nov. 21.0 TT = JDT 2461000.5                 Alexanders
+M 312.50898              (2000.0)            P               Q
+n   0.58216353     Peri.  140.64055     -0.93398605     -0.13449051
+a   0.1398757      Node   323.84592     -0.11192044     +0.98995241
+e   0.1543768      Incl.  145.86734     +0.33932857     -0.04366373
+P   1.69           H   15.78          P/d   618.38
+From 50 observations 2001 Dec. 11-2017 Mar. 26, mean residual 0".24.
+
+Jupiter XXX (Hermippe)
+Epoch 2025 Nov. 21.0 TT = JDT 2461000.5                 Alexanders
+M  87.69927              (2000.0)            P               Q
+n   0.55343547     Peri.   31.58690     +0.89107575     +0.23126113
+a   0.1446753      Node    50.36255     +0.23198955     -0.97162808
+e   0.1598383      Incl.  149.52919     +0.39008315     +0.04956989
+P   1.78           H   15.50          P/d   650.48
+From 76 observations 2001 Dec. 9-2017 Mar. 26, mean residual 0".22.
+
+Jupiter XXXI (Aitne)
+Epoch 2025 Nov. 21.0 TT = JDT 2461000.5                 Alexanders
+M  71.83870              (2000.0)            P               Q
+n   0.51280396     Peri.  221.07909     -0.30375594     -0.92831769
+a   0.1522199      Node   112.39722     -0.80227478     +0.37058889
+e   0.1929913      Incl.  166.59276     -0.51389445     -0.02983512
+P   1.92           H   15.96          P/d   702.02
+From 56 observations 2001 Dec. 9-2017 Mar. 26, mean residual 0".26.
+
+Jupiter XXXII (Eurydome)
+Epoch 2025 Nov. 21.0 TT = JDT 2461000.5                 Alexanders
+M  22.01665              (2000.0)            P               Q
+n   0.50472897     Peri.  296.25346     -0.27158977     +0.88700125
+a   0.1538391      Node    47.51729     +0.95915224     +0.28137666
+e   0.2550646      Incl.  149.57626     -0.07915789     +0.36613652
+P   1.95           H   16.23          P/d   713.25
+From 47 observations 2001 Dec. 9-2024 Dec. 3, mean residual 0".13.
+
+Jupiter XXXIII (Euanthe)
+Epoch 2025 Nov. 21.0 TT = JDT 2461000.5                 Alexanders
+M  80.48296              (2000.0)            P               Q
+n   0.60386420     Peri.   20.99388     +0.71356155     -0.65593910
+a   0.1365042      Node   334.31580     -0.69600865     -0.70383070
+e   0.1608363      Incl.  145.39872     -0.08001174     +0.27270175
+P   1.63           H   16.44          P/d   596.16
+From 28 observations 2001 Dec. 11-2024 Dec. 3, mean residual 0".20.
+
+Jupiter XXXIV (Euporie)
+Epoch 2025 Nov. 21.0 TT = JDT 2461000.5                 Alexanders
+M 191.05177              (2000.0)            P               Q
+n   0.68204884     Peri.  102.12141     +0.75702898     +0.51176520
+a   0.1258622      Node   131.24798     +0.14271678     -0.73620291
+e   0.1640882      Incl.  147.29824     +0.63760415     -0.44283367
+P   1.45           H   16.31          P/d   527.82
+From 38 observations 2001 Dec. 11-2017 Mar. 26, mean residual 0".47.
+
+Jupiter XXXV (Orthosie)
+Epoch 2025 Nov. 21.0 TT = JDT 2461000.5                 Alexanders
+M 300.72453              (2000.0)            P               Q
+n   0.56941946     Peri.  288.23263     +0.75251998     +0.55764469
+a   0.1419550      Node   319.91526     +0.58011128     -0.81311078
+e   0.4819754      Incl.  147.03739     -0.31174442     -0.16698281
+P   1.73           H   16.63          P/d   632.22
+From 34 observations 2001 Dec. 11-2017 Mar. 26, mean residual 0".24.
+
+Jupiter XXXVI (Sponde)
+Epoch 2018 Mar. 23.0 TT = JDT 2458200.5                 MPC
+M 180.99731              (2000.0)            P               Q
+n   0.48987158     Peri.  110.44282     +0.01605352     +0.98334677
+a   0.1569342      Node   202.02446     +0.63819110     +0.12929848
+e   0.3136947      Incl.  151.13548     +0.76971060     -0.12771465
+P   2.01           H   16.7           P/d   734.89
+From 20 observations 2001 Dec. 9-2018 May 18, mean residual 0".30.
+
+Jupiter XXXVII (Kale)
+Epoch 2025 Nov. 21.0 TT = JDT 2461000.5                 Alexanders
+M 196.91721              (2000.0)            P               Q
+n   0.52850306     Peri.  163.60458     +0.97731539     +0.21053885
+a   0.1491903      Node   175.56231     +0.14510051     -0.74465647
+e   0.3498585      Incl.  162.72392     +0.15427398     -0.63337204
+P   1.86           H   16.10          P/d   681.17
+From 51 observations 2001 Dec. 9-2022 Sept. 2, mean residual 0".29.
+
+Jupiter XXXVIII (Pasithee)
+Epoch 2020 Dec. 17.0 TT = JDT 2459200.5                 Pike
+M  71.98760              (2000.0)            P               Q
+n   0.50624668     Peri.  331.51895     +0.22812491     +0.95307125
+a   0.1535315      Node    49.07994     +0.93578890     -0.27106703
+e   0.2097026      Incl.  164.72796     +0.26880878     +0.13482532
+P   1.95           H   16.77          P/d   711.12
+From 25 observations 2001 Dec. 11-2017 Mar. 26, mean residual 0".32.
+
+Jupiter XXXIX (Hegemone)
+Epoch 2025 Nov. 21.0 TT = JDT 2461000.5                 Alexanders
+M 192.68636              (2000.0)            P               Q
+n   0.48044478     Peri.  289.18613     -0.76405975     +0.50924233
+a   0.1589803      Node    76.71129     +0.62827822     +0.72680960
+e   0.3087637      Incl.  155.98446     -0.14655775     +0.46089050
+P   2.05           H   15.63          P/d   749.31
+From 45 observations 2002 Jan. 11-2024 Dec. 3, mean residual 0".34.
+
+Jupiter XL (Mneme)
+Epoch 2019 Apr. 27.0 TT = JDT 2458600.5                 Williams
+M  42.92065              (2000.0)            P               Q
+n   0.56910026     Peri.   88.77954     +0.84979664     -0.29938565
+a   0.1420081      Node    71.49316     -0.42231089     -0.87922960
+e   0.3775580      Incl.  152.77440     +0.31543490     -0.37057191
+P   1.73           H   16.3           P/d   632.58
+From 44 observations 2002 Jan. 10-2017 Mar. 26, mean residual 0".28.
+
+Jupiter XLI (Aoede)
+Epoch 2025 Nov. 21.0 TT = JDT 2461000.5                 Alexanders
+M 320.59366              (2000.0)            P               Q
+n   0.49416494     Peri.  206.72074     +0.04322469     +0.91696104
+a   0.1560239      Node   291.94373     +0.97597069     +0.04611179
+e   0.3234559      Incl.  154.68414     +0.21357164     -0.39630312
+P   1.99           H   15.49          P/d   728.50
+From 70 observations 2002 Jan. 11-2022 Sept. 27, mean residual 0".34.
+
+Jupiter XLII (Thelxinoe)
+Epoch 2022 Jan. 21.0 TT = JDT 2459600.5                 Alexanders
+M 229.61004              (2000.0)            P               Q
+n   0.57185822     Peri.    4.29995     -0.55078776     -0.68638794
+a   0.1415511      Node   240.14719     -0.78117495     +0.22356676
+e   0.1782547      Incl.  146.80255     -0.29393628     +0.69201843
+P   1.72           H   16.30          P/d   629.53
+From 56 observations 2002 Jan. 11-2021 Sept. 6, mean residual 0".36.
+
+Jupiter XLIII (Arche)
+Epoch 2019 Apr. 27.0 TT = JDT 2458600.5                 Williams
+M 274.48183              (2000.0)            P               Q
+n   0.48401998     Peri.  243.44167     -0.95461328     +0.24362744
+a   0.1581965      Node    49.85414     +0.28183555     +0.92493949
+e   0.3390126      Incl.  167.04682     -0.09634425     +0.29177492
+P   2.04           H   16.2           P/d   743.77
+From 40 observations 2002 Oct. 31-2018 May 12, mean residual 0".28.
+
+Jupiter XLIV (Kallichore)
+Epoch 2025 Nov. 21.0 TT = JDT 2461000.5                 Alexanders
+M  37.58301              (2000.0)            P               Q
+n   0.48937159     Peri.  137.44195     +0.97826114     +0.15777093
+a   0.1570410      Node   145.82095     +0.05429446     -0.82121322
+e   0.2884277      Incl.  166.13879     +0.20014309     -0.54837686
+P   2.01           H   16.13          P/d   735.64
+From 57 observations 2003 Feb. 6-2026 Jan. 21, mean residual 0".18.
+
+Jupiter XLV (Helike)
+Epoch 2025 Nov. 21.0 TT = JDT 2461000.5                 Alexanders
+M  90.73574              (2000.0)            P               Q
+n   0.58584133     Peri.   13.12131     -0.95985683     +0.27916730
+a   0.1392897      Node   176.53439     +0.19900725     +0.60943585
+e   0.1471645      Incl.  153.24603     +0.19766382     +0.74206035
+P   1.68           H   15.89          P/d   614.50
+From 49 observations 2003 Feb. 6-2024 Dec. 7, mean residual 0".34.
+
+Jupiter XLVI (Carpo)
+Epoch 2025 Nov. 21.0 TT = JDT 2461000.5                 Alexanders
+M 315.82478              (2000.0)            P               Q
+n   0.77669323     Peri.   91.20864     +0.32842933     -0.86608031
+a   0.1154178      Node   329.20001     +0.25056531     +0.46460812
+e   0.5732901      Incl.   47.39464     +0.91068721     +0.18451067
+P   1.27           H   16.18          P/d   463.50
+From 43 observations 2003 Feb. 9-2018 May 12, mean residual 0".30.
+
+Jupiter XLVII (Eukelade)
+Epoch 2023 Feb. 25.0 TT = JDT 2460000.5                 Alexanders
+M  51.16777              (2000.0)            P               Q
+n   0.49602085     Peri.   39.02890     -0.40039131     -0.86874237
+a   0.1556344      Node   283.65190     -0.89781170     +0.30826036
+e   0.2891368      Incl.  162.54377     -0.18336016     +0.38763674
+P   1.99           H   15.91          P/d   725.78
+From 48 observations 2003 Feb. 5-2022 Sept. 2, mean residual 0".19.
+
+Jupiter XLVIII (Cyllene)
+Epoch 2025 Nov. 21.0 TT = JDT 2461000.5                 Alexanders
+M 327.03783              (2000.0)            P               Q
+n   0.48039279     Peri.  322.25013     +0.50609018     +0.82688766
+a   0.1589918      Node    24.98826     +0.86237560     -0.48071031
+e   0.4168651      Incl.  144.51575     -0.01345530     +0.29184653
+P   2.05           H   16.26          P/d   749.39
+From 30 observations 2002 Dec. 31-2026 Jan. 20, mean residual 0".17.
+
+Jupiter XLIX (Kore)
+Epoch 2025 Nov. 21.0 TT = JDT 2461000.5                 Alexanders
+M  92.36836              (2000.0)            P               Q
+n   0.46560563     Peri.  223.69704     -0.88338476     +0.11211455
+a   0.1623405      Node    44.26301     +0.06036357     +0.99009532
+e   0.3980719      Incl.  139.31016     -0.46474466     -0.08450790
+P   2.12           H   16.60          P/d   773.19
+From 31 observations 2003 Feb. 8-2025 Jan. 7, mean residual 0".13.
+
+Jupiter L (Herse)
+Epoch 2025 Nov. 21.0 TT = JDT 2461000.5                 Alexanders
+M 105.49132              (2000.0)            P               Q
+n   0.52727575     Peri.   54.22735     +0.90369462     -0.40694374
+a   0.1494217      Node    30.85766     -0.42580826     -0.88679887
+e   0.2895326      Incl.  164.95205     +0.04498174     -0.21905376
+P   1.87           H   16.39          P/d   682.75
+From 41 observations 2003 Feb. 8-2018 May 12, mean residual 0".33.
+
+Jupiter LI (S/2010 J 1)
+Epoch 2025 Nov. 21.0 TT = JDT 2461000.5                 Alexanders
+M  99.48658              (2000.0)            P               Q
+n   0.50149902     Peri.  299.29615     +0.07806868     +0.99050023
+a   0.1544990      Node    25.57536     +0.98125842     -0.09640852
+e   0.1677979      Incl.  164.79794     +0.17617375     +0.09805452
+P   1.97           H   16.13          P/d   717.85
+From 165 observations 2003 Feb. 27-2017 Mar. 26, mean residual 0".25.
+
+Jupiter LII (S/2010 J 2)
+Epoch 2023 Feb. 25.0 TT = JDT 2460000.5                 Alexanders
+M 182.76677              (2000.0)            P               Q
+n   0.58184764     Peri.   95.01129     +0.84066017     -0.26018315
+a   0.1399263      Node    79.29483     -0.41891545     -0.86823998
+e   0.2663727      Incl.  151.09352     +0.34322051     -0.42245007
+P   1.69           H   17.35          P/d   618.72
+From 119 observations 2010 Sept. 7-2022 Aug. 30, mean residual 0".16.
+
+Jupiter LIII (Dia)
+Epoch 2025 Nov. 21.0 TT = JDT 2461000.5                 Alexanders
+M 265.30668              (2000.0)            P               Q
+n   1.31160898     Peri.  251.58750     -0.75287407     -0.48263666
+a   0.0813897      Node   257.28337     +0.62609064     -0.73484099
+e   0.2686033      Incl.   27.30565     -0.20295600     -0.47651923
+P   0.75           H   16.18          P/d   274.47
+From 42 observations 2000 Dec. 5-2024 Dec. 3, mean residual 0".35.
+
+Jupiter LIV (S/2016 J 1)
+Epoch 2025 Nov. 21.0 TT = JDT 2461000.5                 Alexanders
+M 323.06224              (2000.0)            P               Q
+n   0.60187399     Peri.    2.17600     +0.71535075     -0.56435976
+a   0.1368050      Node   317.41406     -0.64995011     -0.75391816
+e   0.0891722      Incl.  142.49069     -0.25658947     +0.33631158
+P   1.64           H   16.86          P/d   598.13
+From 51 observations 2001 Dec. 11-2026 Jan. 20, mean residual 0".17.
+
+Jupiter LV (S/2003 J 18)
+Epoch 2025 Nov. 21.0 TT = JDT 2461000.5                 Alexanders
+M 252.00085              (2000.0)            P               Q
+n   0.59274997     Peri.   85.81580     -0.70458645     +0.52105756
+a   0.1382053      Node   235.17459     +0.13536485     +0.76507326
+e   0.0223124      Incl.  144.06793     +0.69658760     +0.37836744
+P   1.66           H   16.33          P/d   607.34
+From 56 observations 2003 Feb. 6-2026 Jan. 20, mean residual 0".17.
+
+Jupiter LVI (S/2011 J 2)
+Epoch 2023 Feb. 25.0 TT = JDT 2460000.5                 Alexanders
+M 196.67571              (2000.0)            P               Q
+n   0.53590056     Peri.   11.13411     -0.32263035     +0.81206183
+a   0.1478142      Node   118.25339     +0.82048995     -0.01620426
+e   0.3838932      Incl.  146.49250     +0.47191726     +0.58334639
+P   1.84           H   16.94          P/d   671.77
+From 28 observations 2011 Sept. 27-2022 Sept. 2, mean residual 0".26.
+
+Jupiter LVII (Eirene)
+Epoch 2025 Nov. 21.0 TT = JDT 2461000.5                 Alexanders
+M 282.52125              (2000.0)            P               Q
+n   0.51296238     Peri.  227.49736     +0.55599928     +0.78783225
+a   0.1521885      Node   281.84003     +0.81967006     -0.46683602
+e   0.2652176      Incl.  164.29504     +0.13786148     -0.40172686
+P   1.92           H   15.79          P/d   701.81
+From 46 observations 2003 Feb. 6-2024 Dec. 3, mean residual 0".32.
+
+Jupiter LVIII (Philophrosyne)
+Epoch 2025 Nov. 21.0 TT = JDT 2461000.5                 Alexanders
+M 248.34468              (2000.0)            P               Q
+n   0.54446924     Peri.   95.14059     -0.56288194     -0.76555761
+a   0.1462593      Node   324.38148     -0.79166175     +0.60770557
+e   0.3578693      Incl.  147.65504     +0.23756176     +0.21122381
+P   1.81           H   16.60          P/d   661.19
+From 25 observations 2003 Feb. 6-2024 Dec. 3, mean residual 0".17.
+
+Jupiter LIX (S/2017 J 1)
+Epoch 2025 Nov. 21.0 TT = JDT 2461000.5                 Alexanders
+M 123.66733              (2000.0)            P               Q
+n   0.46181558     Peri.  140.83586     -0.59962879     -0.78397116
+a   0.1632275      Node    16.25436     -0.79877905     +0.57402173
+e   0.2863124      Incl.  144.95351     +0.04896279     -0.23640701
+P   2.13           H   16.83          P/d   779.53
+From 31 observations 2010 Sept. 8-2024 Dec. 3, mean residual 0".14.
+
+Jupiter LX (Eupheme)
+Epoch 2025 Nov. 21.0 TT = JDT 2461000.5                 Alexanders
+M 136.44946              (2000.0)            P               Q
+n   0.59977776     Peri.  120.25846     -0.83865435     -0.44764953
+a   0.1371236      Node   324.02384     -0.45445768     +0.88910637
+e   0.3566309      Incl.  148.11818     +0.30021175     +0.09539263
+P   1.64           H   16.47          P/d   600.22
+From 30 observations 2003 Feb. 5-2024 Dec. 3, mean residual 0".15.
+
+Jupiter LXI (S/2003 J 19)
+Epoch 2025 Nov. 21.0 TT = JDT 2461000.5                 Alexanders
+M 156.34416              (2000.0)            P               Q
+n   0.52474391     Peri.  305.85252     -0.93104127     -0.33986154
+a   0.1499020      Node   145.16282     -0.21165934     +0.79957485
+e   0.3913576      Incl.  166.54928     -0.29725828     +0.49515067
+P   1.88           H   16.60          P/d   686.05
+From 32 observations 2003 Feb. 6-2024 Dec. 3, mean residual 0".21.
+
+Jupiter LXII (Valetudo)
+Epoch 2025 Nov. 21.0 TT = JDT 2461000.5                 Alexanders
+M 255.47416              (2000.0)            P               Q
+n   0.66547014     Peri.  184.30660     +0.69111031     -0.62109950
+a   0.1279440      Node   222.62518     +0.67834505     +0.73390312
+e   0.1287954      Incl.   33.07749     +0.24942842     -0.27499385
+P   1.48           H   17.05          P/d   540.97
+From 56 observations 2003 Feb. 26-2026 Jan. 21, mean residual 0".12.
+
+Jupiter LXIII (S/2017 J 2)
+Epoch 2025 Nov. 21.0 TT = JDT 2461000.5                 Alexanders
+M 301.29333              (2000.0)            P               Q
+n   0.48451082     Peri.  261.51871     -0.85947664     -0.47015276
+a   0.1580896      Node   109.77029     -0.34334574     +0.82175001
+e   0.3486290      Incl.  167.68965     -0.37869989     +0.32199893
+P   2.03           H   16.75          P/d   743.02
+From 20 observations 2016 Feb. 5-2024 Dec. 3, mean residual 0".46.
+
+Jupiter LXIV (S/2017 J 3)
+Epoch 2025 Nov. 21.0 TT = JDT 2461000.5                 Alexanders
+M 211.37133              (2000.0)            P               Q
+n   0.60815996     Peri.  238.85766     -0.61352643     -0.61769312
+a   0.1358607      Node   102.20320     -0.43582972     +0.78439778
+e   0.2164417      Incl.  149.77813     -0.65851179     +0.05635007
+P   1.62           H   16.67          P/d   591.95
+From 23 observations 2016 Feb. 5-2024 Dec. 3, mean residual 0".34.
+
+Jupiter LXV (Pandia)
+Epoch 2025 Nov. 21.0 TT = JDT 2461000.5                 Alexanders
+M 311.10135              (2000.0)            P               Q
+n   1.43759844     Peri.  259.79689     -0.40355377     -0.86990388
+a   0.0765621      Node   218.31053     +0.90988459     -0.41414245
+e   0.2244331      Incl.   27.22117     -0.09619974     -0.26786802
+P   0.69           H   16.25          P/d   250.42
+From 28 observations 2017 Mar. 23-2026 Jan. 21, mean residual 0".26.
+
+Jupiter LXVI (S/2017 J 5)
+Epoch 2025 Nov. 21.0 TT = JDT 2461000.5                 Alexanders
+M 346.03967              (2000.0)            P               Q
+n   0.48757171     Peri.   68.67034     +0.05963961     +0.99280366
+a   0.1574273      Node   154.56948     +0.80261823     -0.10954607
+e   0.2282961      Incl.  166.00538     +0.59350408     +0.04837920
+P   2.02           H   16.56          P/d   738.35
+From 18 observations 2017 Mar. 23-2024 Dec. 3, mean residual 0".19.
+
+Jupiter LXVII (S/2017 J 6)
+Epoch 2025 Nov. 21.0 TT = JDT 2461000.5                 Alexanders
+M 148.22674              (2000.0)            P               Q
+n   0.52272978     Peri.   93.31089     +0.82438779     -0.39395110
+a   0.1502868      Node    69.77656     -0.50711064     -0.83302375
+e   0.4059857      Incl.  154.33336     +0.25144296     -0.38842498
+P   1.89           H   16.43          P/d   688.69
+From 24 observations 2017 Feb. 24-2024 Dec. 3, mean residual 0".45.
+
+Jupiter LXVIII (S/2017 J 7)
+Epoch 2018 Mar. 23.0 TT = JDT 2458200.5                 MPC
+M 236.89880              (2000.0)            P               Q
+n   0.59724037     Peri.  323.55054     +0.92659815     +0.06284667
+a   0.1375117      Node   321.50627     +0.02409525     -0.99383247
+e   0.2146970      Incl.  143.43936     -0.37528027     +0.09136363
+P   1.65           H   16.6           P/d   602.77
+From 18 observations 2017 Feb. 24-2018 May 17, mean residual 0".29.
+
+Jupiter LXIX (S/2017 J 8)
+Epoch 2025 Nov. 21.0 TT = JDT 2461000.5                 Alexanders
+M  38.89335              (2000.0)            P               Q
+n   0.51444441     Peri.   78.15519     -0.49039523     +0.86741109
+a   0.1518961      Node   198.26800     +0.65749919     +0.43174827
+e   0.2240137      Incl.  164.39474     +0.57202040     +0.24736901
+P   1.92           H   17.08          P/d   699.78
+From 27 observations 2010 Sept. 8-2024 Dec. 3, mean residual 0".17.
+
+Jupiter LXX (S/2017 J 9)
+Epoch 2023 Feb. 25.0 TT = JDT 2460000.5                 Alexanders
+M 149.79582              (2000.0)            P               Q
+n   0.51730359     Peri.  330.50933     +0.95013633     -0.13172127
+a   0.1513359      Node   319.65754     -0.12178219     -0.99116576
+e   0.0997142      Incl.  154.11148     -0.28707152     -0.01549033
+P   1.91           H   16.11          P/d   695.92
+From 28 observations 2017 Feb. 24-2022 Oct. 16, mean residual 0".27.
+
+Jupiter LXXI (Ersa)
+Epoch 2025 Nov. 21.0 TT = JDT 2461000.5                 Alexanders
+M 197.81013              (2000.0)            P               Q
+n   1.43574250     Peri.   18.01824     -0.20467853     -0.83164387
+a   0.0766281      Node    86.41076     +0.82234126     -0.43214294
+e   0.1025141      Incl.   31.14642     +0.53090634     +0.34874197
+P   0.69           H   15.98          P/d   250.74
+From 67 observations 2000 Aug. 6-2026 Jan. 20, mean residual 0".10.
+
+Jupiter LXXII (S/2011 J 1)
+Epoch 2025 Nov. 21.0 TT = JDT 2461000.5                 Alexanders
+M 194.10685              (2000.0)            P               Q
+n   0.53076222     Peri.  154.10345     -0.90370303     -0.42814920
+a   0.1487667      Node   359.42704     -0.42617716     +0.89881864
+e   0.3678536      Incl.  162.44077     -0.04115661     +0.09387931
+P   1.86           H   16.82          P/d   678.27
+From 33 observations 2011 Sept. 27-2024 Dec. 2, mean residual 0".17.
+
+S/2003 J 2
+Epoch 2025 Nov. 21.0 TT = JDT 2461000.5                 Alexanders
+M  56.98862              (2000.0)            P               Q
+n   0.56033701     Peri.  249.36672     -0.90378060     +0.04138159
+a   0.1434849      Node    69.07128     +0.14075539     +0.96868834
+e   0.3152722      Incl.  152.86552     -0.40418875     +0.24480697
+P   1.76           H   16.73          P/d   642.47
+From 63 observations 2001 Dec. 11-2026 Jan. 21, mean residual 0".20.
+
+S/2003 J 4
+Epoch 2025 Nov. 21.0 TT = JDT 2461000.5                 Alexanders
+M 327.92464              (2000.0)            P               Q
+n   0.48983070     Peri.  274.50624     +0.86130527     +0.24758845
+a   0.1569429      Node   288.33026     +0.37121511     -0.90288511
+e   0.4839109      Incl.  152.13451     -0.34691869     -0.35142345
+P   2.01           H   16.74          P/d   734.95
+From 48 observations 2001 Dec. 10-2026 Jan. 20, mean residual 0".09.
+
+S/2003 J 9
+Epoch 2020 Dec. 17.0 TT = JDT 2459200.5                 Alexanders
+M 109.89836              (2000.0)            P               Q
+n   0.46899467     Peri.   45.62861     +0.07236982     +0.98111091
+a   0.1615575      Node   130.59522     +0.83468388     -0.15803615
+e   0.1701900      Incl.  166.33404     +0.54595369     +0.11156149
+P   2.10           H   16.91          P/d   767.60
+From 29 observations 2003 Feb. 6-2018 Apr. 13, mean residual 0".32.
+
+S/2003 J 10
+Epoch 2025 Nov. 21.0 TT = JDT 2461000.5                 Alexanders
+M 181.45500              (2000.0)            P               Q
+n   0.51261323     Peri.  272.38024     +0.95580597     -0.13877412
+a   0.1522576      Node   264.32079     -0.02198350     -0.91285323
+e   0.3291640      Incl.  164.90246     -0.29317515     -0.38398010
+P   1.92           H   16.87          P/d   702.28
+From 99 observations 2003 Feb. 6-2024 Dec. 3, mean residual 0".12.
+
+S/2003 J 12
+Epoch 2025 Nov. 21.0 TT = JDT 2461000.5                 Alexanders
+M 243.26008              (2000.0)            P               Q
+n   0.59857340     Peri.  117.42960     +0.75375161     +0.62525341
+a   0.1373074      Node   154.44649     +0.30101946     -0.60211811
+e   0.3588814      Incl.  152.03454     +0.58416247     -0.49649971
+P   1.65           H   17.09          P/d   601.43
+From 50 observations 2001 Dec. 10-2024 Dec. 3, mean residual 0".14.
+
+S/2003 J 16
+Epoch 2025 Nov. 21.0 TT = JDT 2461000.5                 Alexanders
+M  48.31831              (2000.0)            P               Q
+n   0.56511152     Peri.  112.63612     +0.89292205     -0.01832631
+a   0.1426755      Node   109.07168     -0.26513536     -0.82893186
+e   0.3262168      Incl.  151.57790     +0.36385910     -0.55904930
+P   1.74           H   16.34          P/d   637.04
+From 55 observations 2003 Feb. 6-2018 May 12, mean residual 0".11.
+
+S/2003 J 23
+Epoch 2025 Nov. 21.0 TT = JDT 2461000.5                 Alexanders
+M  12.20190              (2000.0)            P               Q
+n   0.48573199     Peri.  328.17000     -0.93496522     -0.30091665
+a   0.1578245      Node   162.37633     +0.00450737     +0.51943547
+e   0.2339047      Incl.  141.64991     -0.35471076     +0.79977244
+P   2.03           H   16.65          P/d   741.15
+From 58 observations 2003 Feb. 6-2017 Apr. 26, mean residual 0".24.
+
+S/2003 J 24
+Epoch 2023 Feb. 25.0 TT = JDT 2460000.5                 Alexanders
+M  16.33294              (2000.0)            P               Q
+n   0.52349819     Peri.  182.40516     -0.41207520     +0.86525637
+a   0.1501397      Node   296.61692     +0.84120447     +0.48168802
+e   0.2498238      Incl.  161.37498     +0.35009866     -0.13895348
+P   1.88           H   16.63          P/d   687.68
+From 86 observations 2003 Feb. 5-2022 Sept. 2, mean residual 0".09.
+
+S/2011 J 3
+Epoch 2022 Aug. 9.0 TT = JDT 2459800.5                  Alexanders
+M 215.57916              (2000.0)            P               Q
+n   1.37524549     Peri.  222.10770     +0.68309104     +0.55457915
+a   0.0788592      Node    97.75374     -0.47369382     +0.83168536
+e   0.1757518      Incl.   28.65923     -0.55587841     -0.02722927
+P   0.72           H   16.27          P/d   261.77
+From 41 observations 2011 Sept. 27-2022 Sept. 18, mean residual 0".10.
+
+S/2016 J 3
+Epoch 2025 Nov. 21.0 TT = JDT 2461000.5                 Alexanders
+M 173.25131              (2000.0)            P               Q
+n   0.50408164     Peri.  188.18668     +0.75686429     -0.63829706
+a   0.1539708      Node   147.14478     -0.58401897     -0.56402718
+e   0.1797753      Incl.  164.99330     -0.29339104     -0.52387995
+P   1.96           H   16.65          P/d   714.17
+From 28 observations 2016 Mar. 9-2026 Jan. 19, mean residual 0".24.
+
+S/2016 J 4
+Epoch 2025 Nov. 21.0 TT = JDT 2461000.5                 Alexanders
+M 289.93108              (2000.0)            P               Q
+n   0.47872223     Peri.  304.83349     +0.85006034     +0.42349857
+a   0.1593614      Node   326.42504     +0.41222573     -0.90501866
+e   0.3157241      Incl.  145.51441     -0.32782216     -0.03987721
+P   2.06           H   17.16          P/d   752.00
+From 22 observations 2016 Feb. 5-2026 Jan. 20, mean residual 0".28.
+
+S/2017 J 10
+Epoch 2025 May 5.0 TT = JDT 2460800.5                   Alexanders
+M  62.49100              (2000.0)            P               Q
+n   0.55805945     Peri.  239.09093     -0.84317848     +0.40541384
+a   0.1438750      Node    38.65145     +0.40567183     +0.91077073
+e   0.2587634      Incl.  145.57259     -0.35281781     +0.07833449
+P   1.77           H   17.03          P/d   645.09
+From 26 observations 2003 Feb. 27-2018 Apr. 13, mean residual 0".19.
+
+S/2017 J 11
+Epoch 2025 Nov. 21.0 TT = JDT 2461000.5                 Alexanders
+M 177.56227              (2000.0)            P               Q
+n   0.49657079     Peri.  185.05810     +0.45426127     +0.84927427
+a   0.1555195      Node   247.81395     +0.82720748     -0.28999751
+e   0.2000319      Incl.  163.10933     +0.33071814     -0.44117418
+P   1.98           H   17.05          P/d   724.97
+From 44 observations 2003 Feb. 26-2023 Nov. 16, mean residual 0".12.
+
+S/2018 J 2
+Epoch 2025 Nov. 21.0 TT = JDT 2461000.5                 Alexanders
+M   2.48717              (2000.0)            P               Q
+n   1.44059203     Peri.    7.80370     +0.33215024     -0.82989806
+a   0.0764560      Node    63.78393     +0.83616477     +0.03915368
+e   0.1333481      Incl.   29.97803     +0.43646843     +0.55653949
+P   0.68           H   16.45          P/d   249.90
+From 26 observations 2003 Mar. 27-2026 Jan. 21, mean residual 0".15.
+
+S/2018 J 3
+Epoch 2025 Nov. 21.0 TT = JDT 2461000.5                 Alexanders
+M 174.12141              (2000.0)            P               Q
+n   0.49855667     Peri.  270.48412     +0.86338320     -0.44861590
+a   0.1551062      Node   243.81284     -0.29585167     -0.82083873
+e   0.2626390      Incl.  165.08965     -0.40870680     -0.35350751
+P   1.98           H   17.27          P/d   722.08
+From 26 observations 2018 May 12-2024 Dec. 3, mean residual 0".18.
+
+S/2018 J 4
+Epoch 2025 Nov. 21.0 TT = JDT 2461000.5                 Alexanders
+M 227.73433              (2000.0)            P               Q
+n   0.84701259     Peri.  276.95245     +0.29886860     +0.92878150
+a   0.1089379      Node    16.63881     -0.22743106     +0.29238891
+e   0.0443467      Incl.   49.94984     -0.92679700     +0.22775787
+P   1.16           H   16.75          P/d   425.02
+From 28 observations 2018 May 11-2024 Dec. 3, mean residual 0".15.
+
+S/2021 J 1
+Epoch 2025 Nov. 21.0 TT = JDT 2461000.5                 Alexanders
+M 147.28406              (2000.0)            P               Q
+n   0.57907403     Peri.  105.19124     -0.67977637     -0.68811027
+a   0.1403728      Node   327.37264     -0.70898843     +0.70510481
+e   0.3199467      Incl.  151.92034     +0.18772186     +0.17126430
+P   1.70           H   17.34          P/d   621.68
+From 25 observations 2021 Aug. 12-2024 Dec. 3, mean residual 0".12.
+
+S/2021 J 2
+Epoch 2025 Nov. 21.0 TT = JDT 2461000.5                 Alexanders
+M 158.49683              (2000.0)            P               Q
+n   0.56274994     Peri.  103.17075     -0.26433758     -0.96417748
+a   0.1430744      Node   357.49637     -0.95673542     +0.26504582
+e   0.2618047      Incl.  149.64112     +0.12158528     -0.01060670
+P   1.75           H   17.23          P/d   639.72
+From 21 observations 2021 Aug. 12-2024 Dec. 3, mean residual 0".21.
+
+S/2021 J 3
+Epoch 2023 Feb. 25.0 TT = JDT 2460000.5                 Alexanders
+M  64.69138              (2000.0)            P               Q
+n   0.55913942     Peri.  291.11314     +0.39880414     -0.83176806
+a   0.1436897      Node   230.78156     -0.54023455     -0.55335915
+e   0.3556841      Incl.  150.10358     -0.74101410     -0.04422158
+P   1.76           H   17.16          P/d   643.85
+From 15 observations 2021 Aug. 12-2022 Oct. 15, mean residual 0".22.
+
+S/2021 J 4
+Epoch 2025 Nov. 21.0 TT = JDT 2461000.5                 Alexanders
+M 241.89702              (2000.0)            P               Q
+n   0.50001619     Peri.  215.58107     +0.97469795     +0.10878922
+a   0.1548043      Node   223.16257     +0.20331643     -0.79447186
+e   0.3313749      Incl.  163.41443     -0.09287807     -0.59747750
+P   1.97           H   17.39          P/d   719.98
+From 11 observations 2021 Aug. 14-2022 Oct. 15, mean residual 0".10.
+
+S/2021 J 5
+Epoch 2023 Feb. 25.0 TT = JDT 2460000.5                 Alexanders
+M 329.67857              (2000.0)            P               Q
+n   0.51078352     Peri.   32.01323     -0.76728351     -0.58080537
+a   0.1526210      Node   249.95820     -0.63233425     +0.61448821
+e   0.2001547      Incl.  163.17500     -0.10690846     +0.53391886
+P   1.93           H   16.80          P/d   704.80
+From 12 observations 2021 Sept. 5-2022 Oct. 15, mean residual 0".14.
+
+S/2021 J 6
+Epoch 2025 Nov. 21.0 TT = JDT 2461000.5                 Alexanders
+M 206.04309              (2000.0)            P               Q
+n   0.49779252     Peri.  283.93795     -0.02467720     -0.99810104
+a   0.1552649      Node   192.92643     -0.79185882     -0.01494466
+e   0.1972636      Incl.  165.38649     -0.61020542     +0.05975758
+P   1.98           H   17.30          P/d   723.19
+From 18 observations 2010 Oct. 2-2024 Dec. 3, mean residual 0".06.
+
+S/2022 J 1
+Epoch 2025 Nov. 21.0 TT = JDT 2461000.5                 Alexanders
+M  82.25490              (2000.0)            P               Q
+n   0.48653370     Peri.   16.92539     +0.78986660     +0.57741607
+a   0.1576511      Node    54.01649     +0.52894956     -0.81193618
+e   0.2075900      Incl.  165.20439     +0.31035966     -0.08573405
+P   2.03           H   17.04          P/d   739.93
+From 30 observations 2003 Feb. 24-2026 Jan. 21, mean residual 0".08.
+
+S/2022 J 2
+Epoch 2025 Nov. 21.0 TT = JDT 2461000.5                 Alexanders
+M  38.93160              (2000.0)            P               Q
+n   0.49121259     Peri.  151.35128     +0.95501976     +0.29129964
+a   0.1566484      Node   167.89426     +0.19541434     -0.75901733
+e   0.2837841      Incl.  164.65037     +0.22304818     -0.58226902
+P   2.01           H   17.53          P/d   732.88
+From 17 observations 2022 Sept. 18-2026 Jan. 21, mean residual 0".25.
+
+S/2022 J 3
+Epoch 2025 Nov. 21.0 TT = JDT 2461000.5                 Alexanders
+M 273.99759              (2000.0)            P               Q
+n   0.58935978     Peri.   77.68096     -0.53521128     -0.73655274
+a   0.1387348      Node   307.25787     -0.82137911     +0.56807594
+e   0.3060971      Incl.  148.69381     +0.19719343     +0.36712366
+P   1.67           H   17.33          P/d   610.83
+From 38 observations 2003 Feb. 26-2024 Dec. 3, mean residual 0".11.
+
+S/2010 J 3
+Epoch 2025 Nov. 21.0 TT = JDT 2461000.5                 Alexanders
+M 136.56854              (2000.0)            P               Q
+n   0.50830323     Peri.  102.95746     +0.77440239     -0.43006715
+a   0.1531171      Node    75.79016     -0.57769838     -0.77972853
+e   0.3275094      Incl.  151.39963     +0.25800296     -0.45504469
+P   1.94           H   17.15          P/d   708.24
+From 23 observations 2010 Sept. 11-2022 Oct. 16, mean residual 0".13.
+
+S/2010 J 4
+Epoch 2025 Nov. 21.0 TT = JDT 2461000.5                 Alexanders
+M  85.84655              (2000.0)            P               Q
+n   0.51930994     Peri.  256.71820     +0.95607717     -0.16416497
+a   0.1509459      Node   247.70202     -0.03029845     -0.87935750
+e   0.3522540      Incl.  164.78419     -0.29154494     -0.44696783
+P   1.90           H   17.24          P/d   693.23
+From 23 observations 2010 Sept. 11-2026 Jan. 20, mean residual 0".20.
+
+S/2010 J 5
+Epoch 2025 Nov. 21.0 TT = JDT 2461000.5                 Alexanders
+M 318.25265              (2000.0)            P               Q
+n   0.47522554     Peri.   32.13002     +0.92342489     +0.32893897
+a   0.1601422      Node    52.62331     +0.27788992     -0.92839275
+e   0.2897896      Incl.  165.59430     +0.26469542     -0.17287583
+P   2.07           H   17.88          P/d   757.54
+From 15 observations 2010 Sept. 8-Nov. 1, mean residual 0".13.
+
+S/2010 J 6
+Epoch 2025 Nov. 21.0 TT = JDT 2461000.5                 Alexanders
+M  96.87768              (2000.0)            P               Q
+n   0.53362865     Peri.  147.02074     -0.61391853     -0.76652187
+a   0.1482334      Node    21.21305     -0.78868802     +0.60555676
+e   0.2400704      Incl.  148.59593     -0.03279097     -0.21388136
+P   1.85           H   16.50          P/d   674.63
+From 19 observations 2010 Sept. 12-Nov. 1, mean residual 0".18.
+
+S/2011 J 4
+Epoch 2025 Nov. 21.0 TT = JDT 2461000.5                 Alexanders
+M  64.39845              (2000.0)            P               Q
+n   1.49946642     Peri.  101.47263     +0.55163643     -0.75300883
+a   0.0744414      Node   308.92063     +0.46350454     +0.63429910
+e   0.1434678      Incl.   27.45556     +0.69344127     +0.17504956
+P   0.66           H   16.84          P/d   240.09
+From 24 observations 2011 Sept. 27-2026 Jan. 21, mean residual 0".15.
+
+S/2011 J 5
+Epoch 2025 Nov. 21.0 TT = JDT 2461000.5                 Alexanders
+M   0.56551              (2000.0)            P               Q
+n   0.48251554     Peri.  205.25719     +0.70677809     -0.70150931
+a   0.1585251      Node   159.80660     -0.59580575     -0.52062626
+e   0.2133831      Incl.  164.65029     -0.38141873     -0.48665490
+P   2.04           H   17.21          P/d   746.09
+From 31 observations 2011 Sept. 27-2023 Dec. 6, mean residual 0".16.
+
+S/2011 J 6
+Epoch 2025 Nov. 21.0 TT = JDT 2461000.5                 Alexanders
+M 192.52551              (2000.0)            P               Q
+n   0.50813792     Peri.    1.65404     +0.54432204     +0.80938547
+a   0.1531503      Node    58.61858     +0.76665848     -0.58665613
+e   0.2264311      Incl.  165.03371     +0.34051181     +0.02701387
+P   1.94           H   16.90          P/d   708.47
+From 25 observations 2003 Feb. 27-2022 Oct. 16, mean residual 0".16.
+
+S/2017 J 12
+Epoch 2025 Nov. 21.0 TT = JDT 2461000.5                 Alexanders
+M 264.17914              (2000.0)            P               Q
+n   0.51643518     Peri.  107.32553     -0.64488784     -0.75669536
+a   0.1515055      Node   336.12215     -0.76233294     +0.62685012
+e   0.3062488      Incl.  164.61581     -0.05448095     +0.18566382
+P   1.91           H   17.26          P/d   697.09
+From 18 observations 2017 Mar. 23-2024 Dec. 3, mean residual 0".15.
+
+S/2017 J 13
+Epoch 2025 Nov. 21.0 TT = JDT 2461000.5                 Alexanders
+M 295.42655              (2000.0)            P               Q
+n   0.52919595     Peri.   87.23737     -0.63034021     +0.75762154
+a   0.1490601      Node   218.08261     +0.55724213     +0.59344793
+e   0.2123152      Incl.  164.06359     +0.54051126     +0.27171521
+P   1.86           H   16.96          P/d   680.28
+From 20 observations 2017 Mar. 23-2021 Sept. 6, mean residual 0".21.
+
+S/2017 J 14
+Epoch 2025 Nov. 21.0 TT = JDT 2461000.5                 Alexanders
+M 258.43769              (2000.0)            P               Q
+n   0.46546401     Peri.  241.67689     -0.74782743     +0.63041978
+a   0.1623734      Node    24.52897     +0.63058151     +0.77255673
+e   0.4802161      Incl.  149.90911     -0.20765619     +0.07567697
+P   2.12           H   17.02          P/d   773.42
+From 12 observations 2016 Feb. 5-2026 Jan. 21, mean residual 0".16.
+
+S/2017 J 15
+Epoch 2025 Nov. 21.0 TT = JDT 2461000.5                 Alexanders
+M 220.85930              (2000.0)            P               Q
+n   0.48432975     Peri.  125.47202     +0.17946037     -0.89952724
+a   0.1581290      Node    51.06545     -0.98336163     -0.17562222
+e   0.1333400      Incl.  149.19979     +0.02817598     -0.40000947
+P   2.03           H   17.12          P/d   743.30
+From 29 observations 2010 Oct. 2-2024 Dec. 3, mean residual 0".11.
+
+S/2017 J 16
+Epoch 2025 Nov. 21.0 TT = JDT 2461000.5                 Alexanders
+M 165.62191              (2000.0)            P               Q
+n   0.53529362     Peri.  288.09424     -0.95304081     -0.24161522
+a   0.1479259      Node   121.71288     -0.12419483     +0.86168083
+e   0.4084106      Incl.  167.60650     -0.27620439     +0.44623786
+P   1.84           H   17.22          P/d   672.53
+From 24 observations 2017 Mar. 23-2024 Dec. 3, mean residual 0".32.
+
+S/2017 J 17
+Epoch 2025 Nov. 21.0 TT = JDT 2461000.5                 Alexanders
+M 170.26112              (2000.0)            P               Q
+n   1.36393353     Peri.  172.45660     -0.18071798     -0.86976789
+a   0.0792946      Node   287.05770     +0.87543821     +0.07053736
+e   0.1442452      Incl.   28.70547     +0.44827330     -0.48839358
+P   0.72           H   17.19          P/d   263.94
+From 20 observations 2017 Mar. 23-2026 Jan. 20, mean residual 0".21.
+
+S/2017 J 18
+Epoch 2025 Nov. 21.0 TT = JDT 2461000.5                 Alexanders
+M 176.09386              (2000.0)            P               Q
+n   0.53733076     Peri.  334.18055     -0.98470633     -0.15374085
+a   0.1475518      Node   162.43285     -0.07032984     +0.78116602
+e   0.3538371      Incl.  164.24381     -0.15939621     +0.60509785
+P   1.83           H   16.81          P/d   669.98
+From 22 observations 2017 Feb. 24-2024 Dec. 3, mean residual 0".20.
+
+S/2018 J 5
+Epoch 2025 Nov. 21.0 TT = JDT 2461000.5                 Alexanders
+M 332.69354              (2000.0)            P               Q
+n   0.48463744     Peri.   74.86275     -0.78639710     -0.57008984
+a   0.1580621      Node   290.17910     -0.61772015     +0.72501521
+e   0.3062094      Incl.  165.32035     -0.00119157     +0.38645896
+P   2.03           H   17.07          P/d   742.82
+From 18 observations 2018 May 12-2026 Jan. 20, mean residual 0".18.
+
+S/2021 J 7
+Epoch 2025 Nov. 21.0 TT = JDT 2461000.5                 Alexanders
+M 113.24788              (2000.0)            P               Q
+n   0.51480687     Peri.   80.88515     +0.53969227     -0.81071742
+a   0.1518248      Node    27.62824     -0.82474098     -0.56322901
+e   0.2674118      Incl.  150.71045     +0.16892179     -0.15971958
+P   1.91           H   17.29          P/d   699.29
+From 12 observations 2021 Sept. 2-Oct. 11, mean residual 0".19.
+
+S/2021 J 8
+Epoch 2025 Nov. 21.0 TT = JDT 2461000.5                 Alexanders
+M  58.19656              (2000.0)            P               Q
+n   0.58541077     Peri.   78.49403     -0.69119793     +0.63484788
+a   0.1393580      Node   220.53904     +0.25285563     +0.66003341
+e   0.3279769      Incl.  147.91226     +0.67698557     +0.40165166
+P   1.68           H   16.93          P/d   614.95
+From 9 observations 2021 Sept. 5-Oct. 11, mean residual 0".10.
+
+S/2024 J 1
+Epoch 2025 Nov. 21.0 TT = JDT 2461000.5                 Alexanders
+M 210.68930              (2000.0)            P               Q
+n   0.49470420     Peri.  189.49421     -0.99663507     +0.07738002
+a   0.1559105      Node     5.28607     +0.07994410     +0.99046675
+e   0.3141808      Incl.  162.93574     -0.01809629     +0.11396471
+P   1.99           H   16.91          P/d   727.71
+From 18 observations 2016 Feb. 5-2025 Dec. 23, mean residual 0".12.
